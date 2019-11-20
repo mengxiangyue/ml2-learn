@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6347a898-e31c-43c8-a462-9b62b0a3f2f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_classification.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +52,8 @@
       <updated>1573659485414</updated>
       <workItem from="1573659486660" duration="2067000" />
       <workItem from="1573697372028" duration="1685000" />
+      <workItem from="1574179427865" duration="31000" />
+      <workItem from="1574179512524" duration="2000" />
     </task>
     <servers />
   </component>
@@ -66,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
