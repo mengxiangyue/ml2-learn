@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6347a898-e31c-43c8-a462-9b62b0a3f2f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Test.ipynb" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,24 +37,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="40538dd5-9244-47bb-84a8-238e13b15bc2" />
   <component name="ProjectId" id="1TZF0IHyi4MuYQ7V4sXIe5eTWLq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,6 +65,8 @@
       <workItem from="1573697372028" duration="1685000" />
       <workItem from="1574179427865" duration="31000" />
       <workItem from="1574179512524" duration="2000" />
+      <workItem from="1584599068187" duration="8804000" />
+      <workItem from="1584622329659" duration="1320000" />
     </task>
     <servers />
   </component>
@@ -72,5 +85,62 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="220" key="FileChooserDialogImpl" timestamp="1584599863046">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="285" y="220" key="FileChooserDialogImpl/43.23.1397.877@43.23.1397.877" timestamp="1584599863046" />
+    <state width="1355" height="179" key="GridCell.Tab.0.bottom" timestamp="1584601091434">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1584601091434" />
+    <state width="1355" height="179" key="GridCell.Tab.0.center" timestamp="1584601091433">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1584601091433" />
+    <state width="1355" height="179" key="GridCell.Tab.0.left" timestamp="1584601091432">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1584601091432" />
+    <state width="1355" height="179" key="GridCell.Tab.0.right" timestamp="1584601091433">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1584601091433" />
+    <state width="1355" height="179" key="GridCell.Tab.1.bottom" timestamp="1584601091436">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.1.bottom/43.23.1397.877@43.23.1397.877" timestamp="1584601091436" />
+    <state width="1355" height="179" key="GridCell.Tab.1.center" timestamp="1584601091435">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.1.center/43.23.1397.877@43.23.1397.877" timestamp="1584601091435" />
+    <state width="1355" height="179" key="GridCell.Tab.1.left" timestamp="1584601091435">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.1.left/43.23.1397.877@43.23.1397.877" timestamp="1584601091435" />
+    <state width="1355" height="179" key="GridCell.Tab.1.right" timestamp="1584601091436">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="1355" height="179" key="GridCell.Tab.1.right/43.23.1397.877@43.23.1397.877" timestamp="1584601091436" />
+    <state x="243" y="100" key="SettingsEditor" timestamp="1584605389825">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="243" y="100" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1584605389825" />
+    <state x="418" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1584622330762">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="418" y="294" key="com.intellij.ide.util.TipDialog/43.23.1397.877@43.23.1397.877" timestamp="1584622330762" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
